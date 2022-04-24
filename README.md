@@ -16,7 +16,7 @@
 
   Making a controller from scratch would be fairly difficult to do and would nicely touch a lot of the subject I've learned during the entirety of my studies in ALGOSUP and in High School.
   
-  To make my project as perfect as pssible I would need a software either on PC or Mobile, both if possible, which could be interresting, for the  software, to make and sharpen my knowledge
+  To make my project as perfect as pssible I would need a software either on PC or Mobile, both if possible, which could be interresting, for the  PC software, to make and sharpen my knowledge
 
   A lot of people are cut out of a lot of things from the world just because they have some kind of disability and it is kind of unfair.  
   I also think there is no small step toward equality on whatever front, and that even just bringing small enjoyements in life to those who have to face difficulties their entire life is really important.
