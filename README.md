@@ -6,7 +6,7 @@
   
   It has been estimated that around 3.1 Billion people play video games across the globe. So it is highly unlikely that none of those 3.1 Billion are apart of the estimated 110 to 190 Million people with upper body limbs and appendages' weakness.
   
-  ***Unfortunately not a lot of help is directed to this minority in the gaming community when it comes to help them play video games with controlers like everyone and not for large amount of money for a custom made controller.***
+  ***Unfortunately not a lot of help is directed to this minority in the gaming community when it comes to helping them play video games with controlers like everyone and not pay a large amount of money for a custom made controller.***
   
   And another important part for the project is about gamers in general.  
   ***One of the biggest injury for gamers is tendonitis and tendonosis due to mainly using controlers wrong, a little bit had already been made to help prevent those injuries but I found a way to help at the same time both side of this project.***
@@ -18,8 +18,8 @@
   
   To make my project as perfect as pssible I would need a software either on PC or Mobile, both if possible, which could be interresting, for the  PC software, to make and sharpen my knowledge
 
-  A lot of people are cut out of a lot of things from the world just because they have some kind of disability and it is kind of unfair.  
-  I also think there is no small step toward equality on whatever front, and that even just bringing small enjoyements in life to those who have to face difficulties their entire life is really important.
+  A lot of people are cut off from a lot of things just because they have some kind of disability and it is kind of unfair.  
+  I also think there is no small step toward equality on whichever front, and that even just bringing small enjoyements in life to those who have to face difficulties throughout theirs is really important.
   
 ## How am I going to solve the problem.
 
